@@ -1,0 +1,12 @@
+408 每日复习打卡 · GitHub Pages 快速发布
+
+1. 解压本压缩包。
+2. 打开 https://github.com/goodyas522-wq/408-daily-review
+3. 点击 Add file > Upload files，把解压后的 8 个网站文件拖到页面。
+4. 点击 Commit changes。
+5. 打开 Settings > Pages。
+6. Build and deployment 下，Source 选择 Deploy from a branch；Branch 选择 main，目录选择 /(root)，点击 Save。
+7. 等待页面出现网址：https://goodyas522-wq.github.io/408-daily-review/
+8. iPhone Safari 用 Wi-Fi 或蜂窝网络打开该 HTTPS 网址，可再点分享 > 添加到主屏幕。
+
+说明：打卡数据仅保存于当前设备浏览器，不会随网站发布或跨设备同步。公开仓库中的网站源码可见。
